@@ -1,16 +1,59 @@
-# flutter_motorbike
+![image](https://github.com/user-attachments/assets/60009bd7-8eac-47e0-ae02-734fbabf3090)
 
-A new Flutter project.
+**Motor Kataloğu Nedir?**  
 
-## Getting Started
+Motor kataloğu, farklı tipte motorların teknik özelliklerini, performans değerlerini ve kullanım alanlarını içeren bir dokümandır. Genellikle elektrik motorları, içten yanmalı motorlar ve hidrolik motorlar gibi çeşitli motor türlerini kapsar.  
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Bir motor kataloğunda yer alan bilgiler şunları içerebilir:  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Motor Tipi:** Elektrik motoru, dizel motor, benzinli motor vb.  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Güç ve Tork Değerleri:** Motorun üretebileceği maksimum güç ve tork.  
+
+- **Verimlilik Bilgileri:** Enerji tüketimi ve performans verileri.  
+
+- **Boyut ve Ağırlık:** Motorun fiziksel ölçüleri ve ağırlığı.  
+
+- **Kullanım Alanları:** Sanayi, otomotiv, havacılık, tarım gibi sektörlerdeki uygulamaları.  
+
+Motor kataloğu, doğru motor seçiminde rehberlik eder ve mühendisler, teknisyenler veya satın alma uzmanları için önemli bir kaynaktır.
+
+**Danışman:** Keyvan Arasteh [https://github.com/keyvanarasteh](Keyvan Arasteh)
+
+**Takım Üyeleri:**
+
+Emir Duman  [https://github.com/dumanemir]
+ 
+Kullanılan Teknolojiler
+
+-Flutter
+
+-Dart
+
+-ChatGPT
+
+Başlangıç
+Gereksinimler
+-Flutter 3.24.5
+
+-Dart 3.5.4
+
+-DevTools 2.37.3
+
+Kurulum Adımları
+Projeyi bilgisayarınıza indirin.
+git clone [https://github.com/dumanemir/Q-Flutter]
+
+Proje Klasörüne gidin.
+cd [flutter.app]
+
+Gerekli paketleri yükleyin.
+flutter pub get
+
+Uygulamayı başlatın.
+flutter run
+
+Proje Yapısı
+lib/
+
